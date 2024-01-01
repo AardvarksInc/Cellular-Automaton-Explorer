@@ -8,6 +8,10 @@ For example, a 1 in the 47th bit means that if the neighbours of a cell (includi
 111
 then it should change to 1.
 
+## How to Run
+
+run the viewer.py file and make sure numpy and time packages are installed.
+
 ## Controls
 
 Press left and right to go to the next or previous rule. Press 1 to increase the special step and press 2 to decrease it. Press up and down to increase or decrease by the special step.
